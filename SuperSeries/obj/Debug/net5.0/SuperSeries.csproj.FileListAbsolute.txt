@@ -1,0 +1,16 @@
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\cadastroDeSeries\SuperSeries\bin\Debug\net5.0\SuperSeries.exe
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\cadastroDeSeries\SuperSeries\bin\Debug\net5.0\SuperSeries.deps.json
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\cadastroDeSeries\SuperSeries\bin\Debug\net5.0\SuperSeries.runtimeconfig.json
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\cadastroDeSeries\SuperSeries\bin\Debug\net5.0\SuperSeries.runtimeconfig.dev.json
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\cadastroDeSeries\SuperSeries\bin\Debug\net5.0\SuperSeries.dll
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\cadastroDeSeries\SuperSeries\bin\Debug\net5.0\ref\SuperSeries.dll
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\cadastroDeSeries\SuperSeries\bin\Debug\net5.0\SuperSeries.pdb
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\cadastroDeSeries\SuperSeries\obj\Debug\net5.0\SuperSeries.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\cadastroDeSeries\SuperSeries\obj\Debug\net5.0\SuperSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\cadastroDeSeries\SuperSeries\obj\Debug\net5.0\SuperSeries.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\cadastroDeSeries\SuperSeries\obj\Debug\net5.0\SuperSeries.AssemblyInfo.cs
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\cadastroDeSeries\SuperSeries\obj\Debug\net5.0\SuperSeries.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\cadastroDeSeries\SuperSeries\obj\Debug\net5.0\SuperSeries.dll
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\cadastroDeSeries\SuperSeries\obj\Debug\net5.0\ref\SuperSeries.dll
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\cadastroDeSeries\SuperSeries\obj\Debug\net5.0\SuperSeries.pdb
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\cadastroDeSeries\SuperSeries\obj\Debug\net5.0\SuperSeries.genruntimeconfig.cache
